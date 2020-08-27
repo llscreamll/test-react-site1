@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/test-react-site1/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/test-react-site1/static/js/main.8159362c.chunk.js",
+    "main.js.map": "/test-react-site1/static/js/main.8159362c.chunk.js.map",
+    "runtime-main.js": "/test-react-site1/static/js/runtime-main.c1a17c95.js",
+    "runtime-main.js.map": "/test-react-site1/static/js/runtime-main.c1a17c95.js.map",
+    "static/css/2.11829350.chunk.css": "/test-react-site1/static/css/2.11829350.chunk.css",
+    "static/js/2.29c7e8bc.chunk.js": "/test-react-site1/static/js/2.29c7e8bc.chunk.js",
+    "static/js/2.29c7e8bc.chunk.js.map": "/test-react-site1/static/js/2.29c7e8bc.chunk.js.map",
+    "index.html": "/test-react-site1/index.html",
+    "precache-manifest.99da199804375d661eaca6de40fd127d.js": "/test-react-site1/precache-manifest.99da199804375d661eaca6de40fd127d.js",
+    "service-worker.js": "/test-react-site1/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/test-react-site1/static/css/2.11829350.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/test-react-site1/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.29c7e8bc.chunk.js.LICENSE.txt": "/test-react-site1/static/js/2.29c7e8bc.chunk.js.LICENSE.txt",
+    "static/media/1200px-React-icon.svg.png": "/test-react-site1/static/media/1200px-React-icon.svg.580ffd26.png",
+    "static/media/people-coffee-notes-tea.jpg": "/test-react-site1/static/media/people-coffee-notes-tea.5684fb95.jpg",
+    "static/media/people-woman-coffee-meeting.jpg": "/test-react-site1/static/media/people-woman-coffee-meeting.f2051222.jpg",
+    "static/media/pexels-photo-1000445.jpeg": "/test-react-site1/static/media/pexels-photo-1000445.b9a1fbe5.jpeg",
+    "static/media/pexels-photo-1181622.jpeg": "/test-react-site1/static/media/pexels-photo-1181622.550f6931.jpeg",
+    "static/media/pexels-photo-3183150.jpeg": "/test-react-site1/static/media/pexels-photo-3183150.6b8db2bb.jpeg",
+    "static/media/pexels-photo-3183153.jpeg": "/test-react-site1/static/media/pexels-photo-3183153.e6ed7524.jpeg",
+    "static/media/pexels-photo-3184160.jpeg": "/test-react-site1/static/media/pexels-photo-3184160.cee26009.jpeg",
+    "static/media/pexels-photo-3184418.jpeg": "/test-react-site1/static/media/pexels-photo-3184418.ae8361bf.jpeg",
+    "static/media/play-stone-network-networked-interactive-163064.jpeg": "/test-react-site1/static/media/play-stone-network-networked-interactive-163064.4e6467b9.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1a17c95.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.29c7e8bc.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.8159362c.chunk.js"
+  ]
+}
